@@ -46,8 +46,8 @@ body {
 }
 
 .header-section .content .img-container {
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin-top: 80px;
+  margin-bottom: 80px;
   display: flex;
   flex-direction: column;
   align-items: center;
